@@ -1,7 +1,7 @@
 {
   "version": "0.2",
   "gitignoreRoot": [".."],
-  "ignorePaths": ["/.devcontainer/", "/node_modules/"],
+  "ignorePaths": ["/.devcontainer/", "/node_modules/", ".clasp.json"],
   "words": [
     "commandhistory",
     "devcontainer",
