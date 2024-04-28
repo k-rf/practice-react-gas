@@ -1,10 +1,10 @@
 {
-  "name": "template-typescript",
-  "remoteUser": "template-typescript",
+  "name": "practice-react-gas",
+  "remoteUser": "practice-react-gas",
   "dockerComposeFile": "./compose.dev.yaml",
   "service": "app",
   "postCreateCommand": "bun install",
-  "workspaceFolder": "/template-typescript",
+  "workspaceFolder": "/practice-react-gas",
   "overrideCommand": true,
   "shutdownAction": "none",
   "customizations": {
